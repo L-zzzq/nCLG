@@ -1,4 +1,20 @@
 # Dataset
+nCLG复现准备：
+- 运行对应数据集下的ipynb文件。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 We include the public [Amazon dataset](http://jmcauley.ucsd.edu/data/amazon/links.html) (*Grocery_and_Gourmet_Food* category, 5-core version with metadata), [MIND-Large dataset](https://msnews.github.io/), and [MovieLens-1M](https://grouplens.org/datasets/movielens/) as our built-in datasets.
 The pre-processed version of Amazon dataset can be found in the `./Grocery_and_Gourmet_Food` dir, which supports Top-k recommendation tasks.
